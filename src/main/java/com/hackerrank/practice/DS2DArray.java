@@ -6,6 +6,8 @@ public class DS2DArray {
 
     public static void main(String[] args) {
 
+        int[] bla = new int[3];
+
         int[][] ex1 = {
                 {1,1,1,0,0,0},
                 {0,1,0,0,0,0},
